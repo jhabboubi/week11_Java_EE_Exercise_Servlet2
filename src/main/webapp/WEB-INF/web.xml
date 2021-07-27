@@ -14,5 +14,5 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
 
-  <display-name>Archetype Created Web Application</display-name>
+  <display-name>BeginnersBookDemo</display-name>
 </web-app>
